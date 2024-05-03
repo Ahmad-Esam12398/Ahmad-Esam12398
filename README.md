@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Esam</h1>
 <h3 align="center">A passionate Full stack web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-esam12398&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-esam12398" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad-esam12398" alt="ahmad-esam12398" /></a> </p>
-
 - 🌱 Currently, I'm an ITI 9-Month Trainee at Professional Development & BI track, specializing in C# and .NET API development.. **.Net**
 
 - 📫 How to reach me **ahmad.esam1231998@gmail.com**
